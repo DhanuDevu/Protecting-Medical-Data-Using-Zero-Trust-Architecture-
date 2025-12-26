@@ -33,7 +33,7 @@ const {
 ```
 
 
-License
+License 
 -------
 
 MIT License
