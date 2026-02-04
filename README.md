@@ -1,5 +1,4 @@
 Etehreum Constants  
-==================
 
 This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
 
